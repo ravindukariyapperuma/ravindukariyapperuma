@@ -17,4 +17,4 @@ Here are some ideas to get you started:
 <!--
 ![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
 -->
-<img align="right" width="100" height="100" src="https://octodex.github.com/images/labtocat.png">
+<img align="right" width="400" height="400" src="https://octodex.github.com/images/labtocat.png">

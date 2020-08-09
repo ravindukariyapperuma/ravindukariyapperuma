@@ -9,7 +9,7 @@
 <!--
 Here are some ideas to get you started:
 -->
-<img align="right" width="400" height="400" src="https://octodex.github.com/images/scubatocat.png">
+<img align="left" width="400" src="https://octodex.github.com/images/scubatocat.png">
 
 - 🔭 I’m currently working on Meetrix.io
 - 🌱 I’m currently learning ReactJS, NodeJS, Java

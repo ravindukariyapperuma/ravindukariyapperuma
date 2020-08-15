@@ -1,7 +1,7 @@
 [![Awesome Badges](https://img.shields.io/badge/welcome-all-green.svg)]()
-[![Awesome Badges](https://img.shields.io/badge/Dedicate-goals-blue.svg)]()
+[![Awesome Badges](https://img.shields.io/badge/dedicate-goals-blue.svg)]()
 [![Awesome Badges](https://img.shields.io/badge/learn-coding-F1C40F.svg)]()
-[![Awesome Badges](https://img.shields.io/badge/develop-fullstack-8B0000.svg)]()
+[![Awesome Badges](https://img.shields.io/badge/develop-fullstack-cc6888.svg)]()
 [![Awesome Badges](https://img.shields.io/badge/interest-frontend-brown.svg)]()
 [![Awesome Badges](https://img.shields.io/badge/love-dreams-BB8FCE.svg)]()
 <!--

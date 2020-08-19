@@ -4,7 +4,9 @@
 [![Awesome Badges](https://img.shields.io/badge/develop-fullstack-cc6888.svg)]()
 [![Awesome Badges](https://img.shields.io/badge/interest-frontend-brown.svg)]()
 [![Awesome Badges](https://img.shields.io/badge/love-dreams-BB8FCE.svg)]()
-![](https://komarev.com/ghpvc/?username=ravindukariyapperuma&color=green)
+<!--
+//![](https://komarev.com/ghpvc/?username=ravindukariyapperuma&color=green)
+-->
 <!--
 ### Hi there 👋
 -->

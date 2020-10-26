@@ -12,13 +12,13 @@
 -->
 <img src="https://i.postimg.cc/52zZrV3V/my-name.gif">
 <hr>
-<!--
+
 **ravindukariyapperuma/ravindukariyapperuma** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
--->
+
 <!--
 Here are some ideas to get you started:
 -->
-<img align="left" width="400" src="https://octodex.github.com/images/scubatocat.png">
+<img align="right" width="400" src="https://octodex.github.com/images/scubatocat.png">
 
 - 🔭 I’m currently working on Meetrix.io
 - 🌱 I’m currently learning ReactJS, NodeJS, Java
@@ -35,12 +35,12 @@ Here are some ideas to get you started:
 -->
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ravindukariyapperuma&layout=compact)]()
 <details>
-<summary>📈 My GitHub Stats</summary>
+<summary>🏆 My GitHub Stats</summary>
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=ravindukariyapperuma&show_icons=true&theme=merko" alt="" />
   </details>
 <!--![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=ravindukariyapperuma&show_icons=true&theme=merko) -->
 <br><br><br>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/redux/redux.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/aws/aws.png"></code>

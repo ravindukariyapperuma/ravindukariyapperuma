@@ -34,5 +34,7 @@ Here are some ideas to get you started:
 ![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
 -->
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ravindukariyapperuma&layout=compact)]()
-
+<details>
+<summary>📈 My GitHub Stats</summary>
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=ravindukariyapperuma&show_icons=true&theme=merko)
+  </details>

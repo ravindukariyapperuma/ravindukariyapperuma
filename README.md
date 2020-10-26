@@ -36,16 +36,16 @@ Here are some ideas to get you started:
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ravindukariyapperuma&layout=compact)]() -->
 <details>
 <summary>⭐ My GitHub Stats</summary>
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=ravindukariyapperuma&show_icons=true&theme=merko" alt="" />
+<p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=ravindukariyapperuma&show_icons=true&theme=merko" alt="" />
   </details>
   <details>
 <summary>📊 My Most Used Languages</summary>
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ravindukariyapperuma&layout=compact" alt="" />
+<p align="left"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ravindukariyapperuma&layout=compact" alt="" />
   </details>
 <!--![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=ravindukariyapperuma&show_icons=true&theme=merko) -->
 <br><br><br>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/redux/redux.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/redux/redux.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png"></code>

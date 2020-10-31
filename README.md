@@ -10,7 +10,7 @@
 <!--
 ### Hi there 👋
 -->
-<img align="center" src="https://i.postimg.cc/52zZrV3V/my-name.gif" width="600">
+<img src="https://i.postimg.cc/52zZrV3V/my-name.gif">
 <hr>
 <!--
 **ravindukariyapperuma/ravindukariyapperuma** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

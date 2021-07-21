@@ -26,6 +26,7 @@ Here are some ideas to get you started:
 
 Hi, I'm undergraduate student of Sri Lanka Institute of Information Technology and Full Stack Developer at Nanatharana (Pvt) Ltd. I interest to learn real-time communication technologies like webRTC and customizing Jitsi and delivering different use cases of video conferencing.
 
+- 🔭 I’m former trainee software engineer at **Meetrix.io**
 <!--
 - 🔭 I’m currently working on Meetrix.io
 - 🌱 I’m currently learning ReactJS, NodeJS, Java

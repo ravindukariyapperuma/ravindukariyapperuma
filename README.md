@@ -1,9 +1,9 @@
-[![Awesome Badges](https://img.shields.io/badge/😃_welcome-👋_all-green.svg)]()
-[![Awesome Badges](https://img.shields.io/badge/🏆_dedicate-🎯_goals-blue.svg)]()
-[![Awesome Badges](https://img.shields.io/badge/🎓_learn-💻_coding-F1C40F.svg)]()
-[![Awesome Badges](https://img.shields.io/badge/🚧_develop-🚀_fullstack-cc6888.svg)]()
-[![Awesome Badges](https://img.shields.io/badge/👻_interest-📟_frontend-brown.svg)]()
-[![Awesome Badges](https://img.shields.io/badge/💛_love-🌼_dreams-BB8FCE.svg)]()
+[![Awesome Badges](https://img.shields.io/badge/welcome-👋_all-green.svg)]()
+[![Awesome Badges](https://img.shields.io/badge/dedicate-🎯_goals-blue.svg)]()
+[![Awesome Badges](https://img.shields.io/badge/learn-💻_coding-F1C40F.svg)]()
+[![Awesome Badges](https://img.shields.io/badge/develop-🚀_fullstack-cc6888.svg)]()
+[![Awesome Badges](https://img.shields.io/badge/interest-📟_frontend-brown.svg)]()
+[![Awesome Badges](https://img.shields.io/badge/love-🌼_dreams-BB8FCE.svg)]()
 <!--
 //![](https://komarev.com/ghpvc/?username=ravindukariyapperuma&color=green)
 -->

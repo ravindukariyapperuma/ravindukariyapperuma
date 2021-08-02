@@ -2,7 +2,7 @@
 [![Awesome Badges](https://img.shields.io/badge/dedicate-🎯_goals-blue.svg)]()
 [![Awesome Badges](https://img.shields.io/badge/learn-💻_coding-F1C40F.svg)]()
 [![Awesome Badges](https://img.shields.io/badge/develop-🚀_fullstack-cc6888.svg)]()
-[![Awesome Badges](https://img.shields.io/badge/interest-📟_frontend-brown.svg)]()
+[![Awesome Badges](https://img.shields.io/badge/interest-👻_frontend-brown.svg)]()
 [![Awesome Badges](https://img.shields.io/badge/love-🌼_dreams-BB8FCE.svg)]()
 <!--
 //![](https://komarev.com/ghpvc/?username=ravindukariyapperuma&color=green)

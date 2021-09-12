@@ -57,14 +57,7 @@ Hi, I'm undergraduate student of Sri Lanka Institute of Information Technology a
 ![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
 -->
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ravindukariyapperuma&layout=compact)]() -->
-<details>
-<summary>⭐ My GitHub Stats</summary>
-<p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=ravindukariyapperuma&show_icons=true&theme=light" alt="" />
-  </details>
-  <details>
-<summary>📊 My Most Used Languages</summary>
-<p align="left"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ravindukariyapperuma&layout=compact&theme=light" alt="" />
-  </details>
+
 
 <!--![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=ravindukariyapperuma&show_icons=true&theme=merko) -->
 
@@ -80,7 +73,20 @@ Hi, I'm undergraduate student of Sri Lanka Institute of Information Technology a
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/laravel/laravel.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code> -->
 
-<img width="50%" src="https://i.postimg.cc/FKd0QxrQ/NUX-Octodex.gif">
+&nbsp;&nbsp;&nbsp;&nbsp;
+
+
+<p align="center"> <img src="https://github-profile-trophy.vercel.app/?username=ravindukariyapperuma&no-frame=false&no-bg=true&margin-w=15&margin-h=15&column=7" alt="ravindukariyapperuma" /> </p>
+
+<details>
+<summary>⭐ My GitHub Stats</summary>
+<p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=ravindukariyapperuma&show_icons=true&theme=light" alt="" />
+  </details>
+  <details>
+<summary>📊 My Most Used Languages</summary>
+<p align="left"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ravindukariyapperuma&layout=compact&theme=light" alt="" />
+  </details>
+
 <img width="100%" src="https://i.postimg.cc/13JmN6yd/logo.png">
 <hr>
 

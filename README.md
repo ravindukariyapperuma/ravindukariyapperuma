@@ -27,7 +27,7 @@ Here are some ideas to get you started:
 Hi, I'm undergraduate student of Sri Lanka Institute of Information Technology.
 <!-- I interest to learn real-time communication technologies like webRTC and customizing Jitsi and delivering different use cases of video conferencing. -->
 
-- 🔭 I’m former full stack developer at **Nanatharana (Pvt) Ltd**
+- 🔭 I’m former full stack developer at **(නැණතරණ) Nanatharana (Pvt) Ltd**
 - 🔭 I’m former trainee software engineer at **Meetrix.IO**
 
 <a href="https://www.linkedin.com/">

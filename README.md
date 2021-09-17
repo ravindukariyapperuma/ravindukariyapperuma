@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 -->
 <img align="right" width="400" src="https://i.postimg.cc/0jMRwvWr/ravindu-Working.gif">
 
-Hi, I'm undergraduate student of Sri Lanka Institute of Information Technology and Full Stack Developer at **Nanatharana (Pvt) Ltd**.
+Hi, I'm undergraduate student of Sri Lanka Institute of Information Technology.
 <!-- I interest to learn real-time communication technologies like webRTC and customizing Jitsi and delivering different use cases of video conferencing. -->
 
 - 🔭 I’m former full stack developer at **Nanatharana (Pvt) Ltd**
